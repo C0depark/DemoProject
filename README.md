@@ -1,5 +1,7 @@
 # Demo Project
 
+For this project, I created a small web application that will pull data periodically from an external API (using a cron job) and store it into a local database. On the front-end, I used the vuew framework to display the data by using an ajax request to an internal API. 
+
 ## Setup:
 
 Run the migrations
