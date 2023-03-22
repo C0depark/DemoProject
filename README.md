@@ -1,4 +1,4 @@
-# Trader Interactive Tech Exercise
+# Demo Project
 
 ## Setup:
 
